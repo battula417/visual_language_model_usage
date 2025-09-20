@@ -8,6 +8,24 @@ __pycache__/
 .env
 .env.*
 
+# Ignore all files in venv, including site-packages and binaries
+venv/*
+venv/**
+
+# Ignore large binary files
+*.dylib
+*.so
+*.dll
+*.bin
+*.dat
+*.pkl
+*.h5
+*.pt
+*.ckpt
+*.tar.gz
+*.zip
+*.whl
+
 # VS Code settings
 .vscode/
 
