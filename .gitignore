@@ -1,0 +1,25 @@
+# Python virtual environment files
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Unstructured library cache
+.cache/
+
+# Misc
+*.log
+*.sqlite3
