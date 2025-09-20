@@ -1,0 +1,13 @@
+python-dotenv
+ipykernel
+pypdf
+pdf2image
+pymilvus
+colpali_engine
+tqdm
+pillow
+arxiv
+pymupdf
+ipywidgets
+unstructured
+unstructured[all-docs]
